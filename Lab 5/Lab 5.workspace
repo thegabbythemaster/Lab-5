@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Lab 5" Database="" Version="10.0.0">
+  <Project Name="TaskA" Path="TaskA/TaskA.project" Active="No"/>
+  <Project Name="TaskB" Path="TaskB/TaskB.project" Active="No"/>
+  <Project Name="TaskC" Path="TaskC/TaskC.project" Active="No"/>
+  <Project Name="TaskD" Path="TaskD/TaskD.project" Active="No"/>
+  <Project Name="TaskE" Path="TaskE/TaskE.project" Active="No"/>
+  <Project Name="TaskF" Path="TaskF/TaskF.project" Active="No"/>
+  <Project Name="TaskG" Path="TaskG/TaskG.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="TaskA" ConfigName="Debug"/>
+      <Project Name="TaskB" ConfigName="Debug"/>
+      <Project Name="TaskC" ConfigName="Debug"/>
+      <Project Name="TaskD" ConfigName="Debug"/>
+      <Project Name="TaskE" ConfigName="Debug"/>
+      <Project Name="TaskF" ConfigName="Debug"/>
+      <Project Name="TaskG" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="TaskA" ConfigName="Release"/>
+      <Project Name="TaskB" ConfigName="Release"/>
+      <Project Name="TaskC" ConfigName="Release"/>
+      <Project Name="TaskD" ConfigName="Release"/>
+      <Project Name="TaskE" ConfigName="Release"/>
+      <Project Name="TaskF" ConfigName="Release"/>
+      <Project Name="TaskG" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

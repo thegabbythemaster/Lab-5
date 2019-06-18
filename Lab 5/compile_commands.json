@@ -1,0 +1,29 @@
+[{
+  "file": "C:\\Users\\HP\\Documents\\Lab 5\\TaskG\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\Lab 5\\TaskG",
+  "command": "clang  -c \"C:\\Users\\HP\\Documents\\Lab 5\\TaskG\\main.cpp\" -o \"C:\\Users\\HP\\Documents\\Lab 5\\TaskG\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\HP\\Documents\\Lab 5\\TaskB\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\Lab 5\\TaskB",
+  "command": "clang  -c \"C:\\Users\\HP\\Documents\\Lab 5\\TaskB\\main.cpp\" -o \"C:\\Users\\HP\\Documents\\Lab 5\\TaskB\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\HP\\Documents\\Lab 5\\TaskD\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\Lab 5\\TaskD",
+  "command": "clang  -c \"C:\\Users\\HP\\Documents\\Lab 5\\TaskD\\main.cpp\" -o \"C:\\Users\\HP\\Documents\\Lab 5\\TaskD\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\HP\\Documents\\Lab 5\\TaskA\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\Lab 5\\TaskA",
+  "command": "clang  -c \"C:\\Users\\HP\\Documents\\Lab 5\\TaskA\\main.cpp\" -o \"C:\\Users\\HP\\Documents\\Lab 5\\TaskA\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\HP\\Documents\\Lab 5\\TaskC\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\Lab 5\\TaskC",
+  "command": "clang  -c \"C:\\Users\\HP\\Documents\\Lab 5\\TaskC\\main.cpp\" -o \"C:\\Users\\HP\\Documents\\Lab 5\\TaskC\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\HP\\Documents\\Lab 5\\TaskE\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\Lab 5\\TaskE",
+  "command": "clang  -c \"C:\\Users\\HP\\Documents\\Lab 5\\TaskE\\main.cpp\" -o \"C:\\Users\\HP\\Documents\\Lab 5\\TaskE\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\HP\\Documents\\Lab 5\\TaskF\\main.cpp",
+  "directory": "C:\\Users\\HP\\Documents\\Lab 5\\TaskF",
+  "command": "clang  -c \"C:\\Users\\HP\\Documents\\Lab 5\\TaskF\\main.cpp\" -o \"C:\\Users\\HP\\Documents\\Lab 5\\TaskF\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }]
